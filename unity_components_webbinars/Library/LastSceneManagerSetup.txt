@@ -1,0 +1,6 @@
+sceneSetups:
+- path: C:/Users/arfon/Downloads/curso_componentes_api_unity-master/curso_componentes_api_unity-master/Proyecto
+    Pildoras/Assets/Pildora 2 - Pool/Pool.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
